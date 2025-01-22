@@ -1,0 +1,47 @@
+{
+    "navBar": {
+        "navBar1": "Inicio",
+        "navBar2": "Cursos",
+        "navBar3": "Versión Pro",
+        "navBar4": "¡Hola "
+    },
+
+    "linkBreadcrumb": {
+        "linkBreadcrumb1": "Cursos",
+        "linkBreadcrumb2": "Nivel básico"
+    },
+
+    "options": {
+        "option1": "Perfil",
+        "option2": "Configuración",
+        "option3": "Cerrar sesión"
+    },
+
+    "content": {
+        "title1": "Aprende inglés gratis",
+        "text1": "Aquí encontrarás todos los contenidos necesarios para aprender la lengua inglesa a tu ritmo",
+
+        "title2": "Cursos de inglés",
+        "text2": "Estos son nuestros cursos de inglés listos para que empieces a aprender",
+
+        "title3": "¿Listo para aprender inglés?",
+        "text3": "¡Bienvenido a Wordgaze! Aquí podrás aprender y practicar inglés de una forma fácil y divertida"
+    },
+
+    "courses": {
+        "titleBasic": "Nivel básico",
+        "descriptionBasic": "Curso básico de inglés para los que están empezando",
+
+        "titleIntermediate": "Nivel intermedio",
+        "descriptionIntermediate": "Curso intermedio de inglés para los que dominan los conceptos básicos del lenguaje",
+
+        "titleAdvanced": "Nivel avanzado",
+        "descriptionAdvanced": "Curso para usuarios avanzados, para los que quieren perfeccionar su inglés",
+
+        "titleBusiness": "Inglés de negocios",
+        "descriptionBusiness": "Lecciones y vocabulario relacionado con el inglés en las empresas",
+
+        "titleTravel": "Vocabulario para viajar",
+        "descriptionTravel": "Vocabulario útil para viajar al extranjero, organizado por temas"
+    }
+}

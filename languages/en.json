@@ -1,0 +1,47 @@
+{
+    "navBar": {
+        "navBar1": "Home",
+        "navBar2": "Courses",
+        "navBar3": "Version Pro",
+        "navBar4": "Hi"
+    },
+
+    "linkBreadcrumb": {
+        "linkBreadcrumb1": "Cursos",
+        "linkBreadcrumb2": "Basic level"
+    },
+
+    "options": {
+        "option1": "Profile",
+        "option2": "Settings",
+        "option3": "Sign out"
+    },
+
+    "content": {
+        "title1": "Learn English for free",
+        "text1": "You will find all the content needed to learn the English language at your own pace here",
+
+        "title2": "English courses",
+        "text2": "These are our English courses ready for you to start learning",
+
+        "title3": "Are you ready to learn English?",
+        "text3": "Welcome to Wordgaze! Here you can learn and practice English in an easy and fun way"
+    },
+
+    "courses": {
+        "titleBasic": "Basic level",
+        "descriptionBasic": "A basic course designed for those who are beginning",
+
+        "titleIntermediate": "Intermediate level",
+        "descriptionIntermediate": "An intermediate level course for those who have already mastered the basic concepts of English grammar",
+
+        "titleAdvanced": "Advanced level",
+        "descriptionAdvanced": "An advanced course for these who want to perfect their English",
+
+        "titleBusiness": "Business English",
+        "descriptionBusiness": "Lessons and vocabulary related to business English",
+
+        "titleTravel": "Travel vocabulary",
+        "descriptionTravel": "Useful vocabulary for foreign travel, organized by theme"
+    }
+}
